@@ -1,2 +1,2 @@
-# BENG-130-103b-168-186b
+# PK/PD Modeling & Parameter Estimation
 ODE modeling, parameter fitting, uncertainty quantification, clean code, tests, plots
